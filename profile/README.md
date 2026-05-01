@@ -31,6 +31,6 @@ We love modern, safe, and efficient technologies:
 
 We are an open community! Whether you are a developer, security researcher, or automation enthusiast, we welcome your contributions.
 
-- 📖 **[Read the Documentation](https://github.com/wasmbridge/wasmbridge/blob/main/libs/.github/README.md)**
+- 📖 **[Read the Documentation](https://github.com/wasmbrigde/.github/blob/main/README.md)**
 - 🐛 **[Report Issues](https://github.com/wasmbridge/wasmbridge/issues)**
 - 💡 **[Share Ideas](https://github.com/wasmbridge/wasmbridge/discussions)**
